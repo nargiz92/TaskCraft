@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TaskCraft/static/css/main.cd327083.css",
-    "main.js": "/TaskCraft/static/js/main.61d04320.js",
+    "main.css": "/TaskCraft/static/css/main.914dab99.css",
+    "main.js": "/TaskCraft/static/js/main.bef19f37.js",
     "static/media/Virtual-Office.png": "/TaskCraft/static/media/Virtual-Office.0e6c7c317dc90c6c350e.png",
     "static/media/loginBackground.jpg": "/TaskCraft/static/media/loginBackground.28dc58fb50ec3301a48d.jpg",
     "index.html": "/TaskCraft/index.html",
-    "main.cd327083.css.map": "/TaskCraft/static/css/main.cd327083.css.map",
-    "main.61d04320.js.map": "/TaskCraft/static/js/main.61d04320.js.map"
+    "main.914dab99.css.map": "/TaskCraft/static/css/main.914dab99.css.map",
+    "main.bef19f37.js.map": "/TaskCraft/static/js/main.bef19f37.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd327083.css",
-    "static/js/main.61d04320.js"
+    "static/css/main.914dab99.css",
+    "static/js/main.bef19f37.js"
   ]
 }
