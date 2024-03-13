@@ -35,6 +35,7 @@ builder.addMatcher((action)=>{
   },(state,action)=> {
       state.status = 'failed'
 
+      // @ts-ignore
       const { payload, error } = action
       if (payload) {
         if (payload.showGlobalError) {
